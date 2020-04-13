@@ -1,0 +1,15 @@
+.text-center {
+  padding: 50px;
+}
+.fiveDayColor {
+  padding: 20px;
+  background-color: blue;
+  color: white;
+  float: left;
+  margin: 10px;
+}
+
+.cList {
+  text-align: left;
+  text-decoration-color: blue;
+}
